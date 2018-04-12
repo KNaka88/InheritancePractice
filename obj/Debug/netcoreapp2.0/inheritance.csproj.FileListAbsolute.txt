@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Book/inheritance/bin/Debug/netcoreapp2.0/inheritance.deps.json
+/Users/koji/Repositories/Csharp/Book/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Book/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Book/inheritance/bin/Debug/netcoreapp2.0/inheritance.dll
+/Users/koji/Repositories/Csharp/Book/inheritance/bin/Debug/netcoreapp2.0/inheritance.pdb
+/Users/koji/Repositories/Csharp/Book/inheritance/obj/Debug/netcoreapp2.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Book/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Book/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Book/inheritance/obj/Debug/netcoreapp2.0/inheritance.dll
+/Users/koji/Repositories/Csharp/Book/inheritance/obj/Debug/netcoreapp2.0/inheritance.pdb
